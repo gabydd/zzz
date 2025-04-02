@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.14.0",
     .dependencies = .{
         .tardy = .{
-            .url = "git+https://github.com/tardy-org/tardy?ref=v0.3.0#cd454060f3b6006368d53c05ab96cd16c73c34de",
-            .hash = "tardy-0.3.0-69wrgi7PAwDFhO7m0aXae6N15s2b28VIOrnRrSHHake6",
+            .url = "git+https://github.com/gabydd/tardy?ref=0.15#34dd8fae66c07682094fd2bc0f933b29b7b93ec1",
+            .hash = "tardy-0.3.0-69wrgtDnAwC2Pq3zEk2DVdcToHrnO0ex9tuB2ICis72I",
         },
         .secsock = .{
             .url = "git+https://github.com/tardy-org/secsock?ref=v0.1.0#263dcd630e32c7a5c7a0522a8d1fd04e39b75c24",
